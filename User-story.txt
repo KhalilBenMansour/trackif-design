@@ -1,0 +1,13 @@
+user story
+-Create, Modify and Delete boards(restirct to admin)
+-Create and Delete cards(restrict to admin)
+-Modify cards
+-Create, Modify and Delete lists(restrict to admin)
+-Move card items within lists
+-Move card items across lists
+-Ordering of list items
+-Notification log with active timestamps for each user events
+-Add comment to a card
+-User register
+-User Login
+-Assign card to user (admin)
